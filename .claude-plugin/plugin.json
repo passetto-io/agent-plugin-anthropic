@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "passetto",
+  "displayName": "Passetto",
+  "version": "1.0.0",
+  "description": "Measure and analyze go-to-market results with Passetto: KPIs, opportunity and prospect signals, marketing influence, and campaign and channel outcomes.",
+  "author": {
+    "name": "Passetto",
+    "email": "support@passetto.com",
+    "url": "https://www.passetto.com"
+  },
+  "homepage": "https://www.passetto.com",
+  "repository": "https://github.com/passetto-io/agent-plugin-anthropic",
+  "license": "UNLICENSED",
+  "icon": "./assets/icon.png",
+  "keywords": ["go-to-market", "marketing", "sales", "crm", "attribution", "analytics"],
+  "privacyPolicyUrl": "https://www.passetto.com/privacy-policy"
+}

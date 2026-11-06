@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "passetto",
+  "description": "The Passetto plugin for Claude.",
+  "owner": {
+    "name": "Passetto",
+    "email": "support@passetto.com",
+    "url": "https://www.passetto.com"
+  },
+  "plugins": [
+    {
+      "name": "passetto",
+      "source": "./",
+      "description": "Measure and analyze go-to-market results with Passetto: KPIs, opportunity and prospect signals, marketing influence, and campaign and channel outcomes."
+    }
+  ]
+}
