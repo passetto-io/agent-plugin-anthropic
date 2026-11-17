@@ -10,7 +10,7 @@ The objective is to understand how different signal types and channels contribut
 ## User Input
 
 - Time period for the analysis (e.g., last 30 days, last quarter)
-- GTM Line(s) to focus on (e.g., New Business, Expansion, Renewal)
+- GTM Line(s) to focus on (e.g., New Business, Existing Business)
 - Opportunity outcome (Closed Won, Closed Lost, All Closed)
 
 ## Tools
